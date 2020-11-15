@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture81\Debug\Lecture81.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture81\Debug\Lecture81.pdb
