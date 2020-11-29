@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture130CheckingVowelsConsonantsAndWordsInAString\Debug\Lecture130CheckingVowelsConsonantsAndWordsInAString.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture130CheckingVowelsConsonantsAndWordsInAString\Debug\Lecture130CheckingVowelsConsonantsAndWordsInAString.pdb

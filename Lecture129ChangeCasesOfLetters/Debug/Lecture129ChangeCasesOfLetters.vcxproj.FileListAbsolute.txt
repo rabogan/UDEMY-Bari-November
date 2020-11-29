@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture129ChangeCasesOfLetters\Debug\Lecture129ChangeCasesOfLetters.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture129ChangeCasesOfLetters\Debug\Lecture129ChangeCasesOfLetters.pdb

@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture131PalindromeCheck\Debug\Lecture131PalindromeCheck.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture131PalindromeCheck\Debug\Lecture131PalindromeCheck.pdb
